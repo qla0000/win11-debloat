@@ -1,6 +1,6 @@
 <p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
 
-<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+<h1 align="center">Microsoft  Activation  Scripts (MAS) and  custom autounattend.xml file for installing Win10/11</h1>
 
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
 

@@ -5,7 +5,10 @@
 <p align="center">Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.</p>
 
 <hr>
-  
+
+## Download free Microsoft 365 software here:
+1. ```https://gravesoft.dev/office_c2r_links```
+
 ## Download / How to use it?
 
 ### Method 1 - PowerShell (Windows 8 and later)
